@@ -1,4 +1,4 @@
-# shehara-us-state-map
+# shehara-us-states-map
 
 ## Available Scripts
 

@@ -1,9 +1,11 @@
 import React from 'react'
-import MapGL, { Source, Layer } from '@urbica/react-map-gl'
+import MapGL from '@urbica/react-map-gl'
 import 'mapbox-gl/dist/mapbox-gl.css'
 
 import keys from './config/keys'
-import data from './us-states.json'
+import US_STATES_DATA from './data/us-states-data.json'
+import MapLayer from './components/MapLayer'
+import MapSource from './components/MapSource'
 const { TOKEN, ZOOM } = keys
 
 class App extends React.Component {
@@ -29,7 +31,7 @@ class App extends React.Component {
 
 	render() {
 		let { viewport } = this.state
-		console.log(data)
+		// console.log(US_STATES_DATA)
 		return (
 			<MapGL
 				style={{ width: '100vw', height: '100vh' }}
@@ -39,16 +41,15 @@ class App extends React.Component {
 				viewportChangeMethod='flyTo'
 				{...viewport}
 			>
-				<Source id='maine' type='geojson' data={data} />
-				<Layer
-					id='maine'
-					type='fill'
-					source='maine'
-					paint={{
-						'fill-color': '#088',
-						'fill-opacity': 0.8
-					}}
-				/>
+				{Object.keys(US_STATES_DATA).map((stateName, i) => {
+					const singleStateData = US_STATES_DATA[stateName]
+					return (
+						<React.Fragment key={'state-' + i}>
+							<MapSource data={singleStateData} />
+							<MapLayer data={singleStateData} />
+						</React.Fragment>
+					)
+				})}
 			</MapGL>
 		)
 	}

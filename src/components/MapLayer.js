@@ -1,8 +1,6 @@
 import React from 'react'
 import { Layer } from '@urbica/react-map-gl'
 
-import getStateFillColor from '../utils/getStateFillColor'
-
 export default function MapLayer({ data }) {
 	return (
 		<>
@@ -11,7 +9,7 @@ export default function MapLayer({ data }) {
 				type='fill'
 				source={data.id}
 				paint={{
-					'fill-color': getStateFillColor(data.properties.name),
+					'fill-color': data.properties.bgColor,
 					'fill-opacity': 0.8
 				}}
 			/>
@@ -22,8 +20,9 @@ export default function MapLayer({ data }) {
 				layout={{
 					'text-field': data.properties.text.toString(),
 					'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
-					'text-size': 12
+					'text-size': 14
 				}}
+				paint={{ 'text-color': data.properties.textColor }}
 			/>
 		</>
 	)

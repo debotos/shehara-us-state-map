@@ -2,7 +2,13 @@
 	"Alabama": {
 		"type": "Feature",
 		"id": "state-1",
-		"properties": { "name": "Alabama", "density": 94.65, "text": 200 },
+		"properties": {
+			"name": "Alabama",
+			"density": 94.65,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -47,7 +53,13 @@
 	"Alaska": {
 		"type": "Feature",
 		"id": "state-2",
-		"properties": { "name": "Alaska", "density": 1.264, "text": 200 },
+		"properties": {
+			"name": "Alaska",
+			"density": 1.264,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "MultiPolygon",
 			"coordinates": [
@@ -1287,7 +1299,13 @@
 	"Arizona": {
 		"type": "Feature",
 		"id": "state-3",
-		"properties": { "name": "Arizona", "density": 57.05, "text": 200 },
+		"properties": {
+			"name": "Arizona",
+			"density": 57.05,
+			"text": 200,
+			"bgColor": "tomato",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -1331,7 +1349,13 @@
 	"Arkansas": {
 		"type": "Feature",
 		"id": "state-4",
-		"properties": { "name": "Arkansas", "density": 56.43, "text": 200 },
+		"properties": {
+			"name": "Arkansas",
+			"density": 56.43,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -1380,7 +1404,13 @@
 	"California": {
 		"type": "Feature",
 		"id": "state-5",
-		"properties": { "name": "California", "density": 241.7, "text": 200 },
+		"properties": {
+			"name": "California",
+			"density": 241.7,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -1485,7 +1515,13 @@
 	"Colorado": {
 		"type": "Feature",
 		"id": "state-6",
-		"properties": { "name": "Colorado", "density": 49.33, "text": 200 },
+		"properties": {
+			"name": "Colorado",
+			"density": 49.33,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -1513,7 +1549,13 @@
 	"Connecticut": {
 		"type": "Feature",
 		"id": "state-7",
-		"properties": { "name": "Connecticut", "density": 739.1, "text": 200 },
+		"properties": {
+			"name": "Connecticut",
+			"density": 739.1,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -1541,7 +1583,13 @@
 	"Delaware": {
 		"type": "Feature",
 		"id": "state-8",
-		"properties": { "name": "Delaware", "density": 464.3, "text": 200 },
+		"properties": {
+			"name": "Delaware",
+			"density": 464.3,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -1566,7 +1614,13 @@
 	"District of Columbia": {
 		"type": "Feature",
 		"id": "state-9",
-		"properties": { "name": "District of Columbia", "density": 10065, "text": 200 },
+		"properties": {
+			"name": "District of Columbia",
+			"density": 10065,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -1583,7 +1637,13 @@
 	"Florida": {
 		"type": "Feature",
 		"id": "state-10",
-		"properties": { "name": "Florida", "density": 353.4, "text": 200 },
+		"properties": {
+			"name": "Florida",
+			"density": 353.4,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -1673,7 +1733,13 @@
 	"Georgia": {
 		"type": "Feature",
 		"id": "state-11",
-		"properties": { "name": "Georgia", "density": 169.5, "text": 200 },
+		"properties": {
+			"name": "Georgia",
+			"density": 169.5,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -1736,7 +1802,13 @@
 	"Hawaii": {
 		"type": "Feature",
 		"id": "state-12",
-		"properties": { "name": "Hawaii", "density": 214.1, "text": 200 },
+		"properties": {
+			"name": "Hawaii",
+			"density": 214.1,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "MultiPolygon",
 			"coordinates": [
@@ -1815,7 +1887,13 @@
 	"Idaho": {
 		"type": "Feature",
 		"id": "state-13",
-		"properties": { "name": "Idaho", "density": 19.15, "text": 200 },
+		"properties": {
+			"name": "Idaho",
+			"density": 19.15,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -1893,7 +1971,13 @@
 	"Illinois": {
 		"type": "Feature",
 		"id": "state-14",
-		"properties": { "name": "Illinois", "density": 231.5, "text": 200 },
+		"properties": {
+			"name": "Illinois",
+			"density": 231.5,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -1972,7 +2056,13 @@
 	"Indiana": {
 		"type": "Feature",
 		"id": "state-15",
-		"properties": { "name": "Indiana", "density": 181.7, "text": 200 },
+		"properties": {
+			"name": "Indiana",
+			"density": 181.7,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -2030,7 +2120,13 @@
 	"Iowa": {
 		"type": "Feature",
 		"id": "state-16",
-		"properties": { "name": "Iowa", "density": 54.81, "text": 200 },
+		"properties": {
+			"name": "Iowa",
+			"density": 54.81,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -2092,7 +2188,13 @@
 	"Kansas": {
 		"type": "Feature",
 		"id": "state-17",
-		"properties": { "name": "Kansas", "density": 35.09, "text": 200 },
+		"properties": {
+			"name": "Kansas",
+			"density": 35.09,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -2117,7 +2219,13 @@
 	"Kentucky": {
 		"type": "Feature",
 		"id": "state-18",
-		"properties": { "name": "Kentucky", "density": 110, "text": 200 },
+		"properties": {
+			"name": "Kentucky",
+			"density": 110,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -2204,7 +2312,13 @@
 	"Louisiana": {
 		"type": "Feature",
 		"id": "state-19",
-		"properties": { "name": "Louisiana", "density": 105, "text": 200 },
+		"properties": {
+			"name": "Louisiana",
+			"density": 105,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -2292,7 +2406,13 @@
 	"Maine": {
 		"type": "Feature",
 		"id": "state-20",
-		"properties": { "name": "Maine", "density": 43.04, "text": 200 },
+		"properties": {
+			"name": "Maine",
+			"density": 43.04,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -2370,7 +2490,13 @@
 	"Maryland": {
 		"type": "Feature",
 		"id": "state-21",
-		"properties": { "name": "Maryland", "density": 596.3, "text": 200 },
+		"properties": {
+			"name": "Maryland",
+			"density": 596.3,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "MultiPolygon",
 			"coordinates": [
@@ -2452,7 +2578,13 @@
 	"Massachusetts": {
 		"type": "Feature",
 		"id": "state-22",
-		"properties": { "name": "Massachusetts", "density": 840.2, "text": 200 },
+		"properties": {
+			"name": "Massachusetts",
+			"density": 840.2,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -2499,7 +2631,13 @@
 	"Michigan": {
 		"type": "Feature",
 		"id": "state-23",
-		"properties": { "name": "Michigan", "density": 173.9, "text": 200 },
+		"properties": {
+			"name": "Michigan",
+			"density": 173.9,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "MultiPolygon",
 			"coordinates": [
@@ -2677,7 +2815,13 @@
 	"Minnesota": {
 		"type": "Feature",
 		"id": "state-24",
-		"properties": { "name": "Minnesota", "density": 67.14, "text": 200 },
+		"properties": {
+			"name": "Minnesota",
+			"density": 67.14,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -2772,7 +2916,13 @@
 	"Mississippi": {
 		"type": "Feature",
 		"id": "state-25",
-		"properties": { "name": "Mississippi", "density": 63.5, "text": 200 },
+		"properties": {
+			"name": "Mississippi",
+			"density": 63.5,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -2830,7 +2980,13 @@
 	"Missouri": {
 		"type": "Feature",
 		"id": "state-26",
-		"properties": { "name": "Missouri", "density": 87.26, "text": 200 },
+		"properties": {
+			"name": "Missouri",
+			"density": 87.26,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -2895,7 +3051,13 @@
 	"Montana": {
 		"type": "Feature",
 		"id": "state-27",
-		"properties": { "name": "Montana", "density": 6.858, "text": 200 },
+		"properties": {
+			"name": "Montana",
+			"density": 6.858,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -2959,7 +3121,13 @@
 	"Nebraska": {
 		"type": "Feature",
 		"id": "state-28",
-		"properties": { "name": "Nebraska", "density": 23.97, "text": 200 },
+		"properties": {
+			"name": "Nebraska",
+			"density": 23.97,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3000,7 +3168,13 @@
 	"Nevada": {
 		"type": "Feature",
 		"id": "state-29",
-		"properties": { "name": "Nevada", "density": 24.8, "text": 200 },
+		"properties": {
+			"name": "Nevada",
+			"density": 24.8,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3033,7 +3207,13 @@
 	"New Hampshire": {
 		"type": "Feature",
 		"id": "state-30",
-		"properties": { "name": "New Hampshire", "density": 147, "text": 200 },
+		"properties": {
+			"name": "New Hampshire",
+			"density": 147,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3073,7 +3253,13 @@
 	"New Jersey": {
 		"type": "Feature",
 		"id": "state-31",
-		"properties": { "name": "New Jersey", "density": 1189, "text": 200 },
+		"properties": {
+			"name": "New Jersey",
+			"density": 1189,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3117,7 +3303,13 @@
 	"New Mexico": {
 		"type": "Feature",
 		"id": "state-32",
-		"properties": { "name": "New Mexico", "density": 17.16, "text": 200 },
+		"properties": {
+			"name": "New Mexico",
+			"density": 17.16,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3146,7 +3338,13 @@
 	"New York": {
 		"type": "Feature",
 		"id": "state-33",
-		"properties": { "name": "New York", "density": 412.3, "text": 200 },
+		"properties": {
+			"name": "New York",
+			"density": 412.3,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3226,7 +3424,13 @@
 	"North Carolina": {
 		"type": "Feature",
 		"id": "state-34",
-		"properties": { "name": "North Carolina", "density": 198.2, "text": 200 },
+		"properties": {
+			"name": "North Carolina",
+			"density": 198.2,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3299,7 +3503,13 @@
 	"North Dakota": {
 		"type": "Feature",
 		"id": "state-35",
-		"properties": { "name": "North Dakota", "density": 9.916, "text": 200 },
+		"properties": {
+			"name": "North Dakota",
+			"density": 9.916,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3327,7 +3537,13 @@
 	"Ohio": {
 		"type": "Feature",
 		"id": "state-36",
-		"properties": { "name": "Ohio", "density": 281.9, "text": 200 },
+		"properties": {
+			"name": "Ohio",
+			"density": 281.9,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3386,7 +3602,13 @@
 	"Oklahoma": {
 		"type": "Feature",
 		"id": "state-37",
-		"properties": { "name": "Oklahoma", "density": 55.22, "text": 200 },
+		"properties": {
+			"name": "Oklahoma",
+			"density": 55.22,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3443,7 +3665,13 @@
 	"Oregon": {
 		"type": "Feature",
 		"id": "state-38",
-		"properties": { "name": "Oregon", "density": 40.33, "text": 200 },
+		"properties": {
+			"name": "Oregon",
+			"density": 40.33,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3511,7 +3739,13 @@
 	"Pennsylvania": {
 		"type": "Feature",
 		"id": "state-39",
-		"properties": { "name": "Pennsylvania", "density": 284.3, "text": 200 },
+		"properties": {
+			"name": "Pennsylvania",
+			"density": 284.3,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3556,7 +3790,13 @@
 	"Rhode Island": {
 		"type": "Feature",
 		"id": "state-40",
-		"properties": { "name": "Rhode Island", "density": 1006, "text": 200 },
+		"properties": {
+			"name": "Rhode Island",
+			"density": 1006,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "MultiPolygon",
 			"coordinates": [
@@ -3589,7 +3829,13 @@
 	"South Carolina": {
 		"type": "Feature",
 		"id": "state-41",
-		"properties": { "name": "South Carolina", "density": 155.4, "text": 200 },
+		"properties": {
+			"name": "South Carolina",
+			"density": 155.4,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3645,7 +3891,13 @@
 	"South Dakota": {
 		"type": "Feature",
 		"id": "state-42",
-		"properties": { "name": "South Dakota", "density": 98.07, "text": 200 },
+		"properties": {
+			"name": "South Dakota",
+			"density": 98.07,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3686,7 +3938,13 @@
 	"Tennessee": {
 		"type": "Feature",
 		"id": "state-43",
-		"properties": { "name": "Tennessee", "density": 88.08, "text": 200 },
+		"properties": {
+			"name": "Tennessee",
+			"density": 88.08,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3741,7 +3999,13 @@
 	"Texas": {
 		"type": "Feature",
 		"id": "state-44",
-		"properties": { "name": "Texas", "density": 98.07, "text": 200 },
+		"properties": {
+			"name": "Texas",
+			"density": 98.07,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3905,7 +4169,13 @@
 	"Utah": {
 		"type": "Feature",
 		"id": "state-45",
-		"properties": { "name": "Utah", "density": 34.3, "text": 200 },
+		"properties": {
+			"name": "Utah",
+			"density": 34.3,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3929,7 +4199,13 @@
 	"Vermont": {
 		"type": "Feature",
 		"id": "state-46",
-		"properties": { "name": "Vermont", "density": 67.73, "text": 200 },
+		"properties": {
+			"name": "Vermont",
+			"density": 67.73,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -3969,7 +4245,13 @@
 	"Virginia": {
 		"type": "Feature",
 		"id": "state-47",
-		"properties": { "name": "Virginia", "density": 204.5, "text": 200 },
+		"properties": {
+			"name": "Virginia",
+			"density": 204.5,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "MultiPolygon",
 			"coordinates": [
@@ -4071,7 +4353,13 @@
 	"Washington": {
 		"type": "Feature",
 		"id": "state-48",
-		"properties": { "name": "Washington", "density": 102.6, "text": 200 },
+		"properties": {
+			"name": "Washington",
+			"density": 102.6,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "MultiPolygon",
 			"coordinates": [
@@ -4165,7 +4453,13 @@
 	"West Virginia": {
 		"type": "Feature",
 		"id": "state-49",
-		"properties": { "name": "West Virginia", "density": 77.06, "text": 200 },
+		"properties": {
+			"name": "West Virginia",
+			"density": 77.06,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -4242,7 +4536,13 @@
 	"Wisconsin": {
 		"type": "Feature",
 		"id": "state-50",
-		"properties": { "name": "Wisconsin", "density": 105.2, "text": 200 },
+		"properties": {
+			"name": "Wisconsin",
+			"density": 105.2,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -4329,7 +4629,13 @@
 	"Wyoming": {
 		"type": "Feature",
 		"id": "state-51",
-		"properties": { "name": "Wyoming", "density": 5.851, "text": 200 },
+		"properties": {
+			"name": "Wyoming",
+			"density": 5.851,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [
@@ -4354,7 +4660,13 @@
 	"Puerto Rico": {
 		"type": "Feature",
 		"id": "state-52",
-		"properties": { "name": "Puerto Rico", "density": 1082, "text": 200 },
+		"properties": {
+			"name": "Puerto Rico",
+			"density": 1082,
+			"text": 200,
+			"bgColor": "#088",
+			"textColor": "#fff"
+		},
 		"geometry": {
 			"type": "Polygon",
 			"coordinates": [

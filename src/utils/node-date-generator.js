@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 // Read
-const rawInputData = fs.readFileSync('../data/us-states.json')
+const rawInputData = fs.readFileSync(__dirname + '/../data/us-states.json')
 const inputData = JSON.parse(rawInputData)
 
 // Arrange Data To The Required Format
@@ -12,4 +12,4 @@ inputData.features.forEach((x, i) => {
 })
 
 // Write
-fs.writeFileSync('../data/us-states-data.json', JSON.stringify(outputData))
+fs.writeFileSync(__dirname + '/../data/us-states-data.json', JSON.stringify(outputData))

@@ -47,3 +47,5 @@ Fill the file `src/config/keys.js` with your Mapbox Default public token (https:
 ```
 Those field is pretty self explanatory.
 If you don't put bgColor then the background color will not appear. Same for the text property. You can put string here.
+
+Edit this file data `src/data/us-states.json` as per your requirements and the run `node src/utils/node-date-generator.js` to generate the actual data set that is going to used by the app.

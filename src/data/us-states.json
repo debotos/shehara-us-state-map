@@ -5,6 +5,7 @@
 			"type": "Feature",
 			"id": "01",
 			"properties": {
+				"short": "VT",
 				"name": "Alabama",
 				"density": 94.65
 			},
@@ -53,6 +54,7 @@
 			"type": "Feature",
 			"id": "02",
 			"properties": {
+				"short": "VT",
 				"name": "Alaska",
 				"density": 1.264
 			},
@@ -1296,6 +1298,7 @@
 			"type": "Feature",
 			"id": "04",
 			"properties": {
+				"short": "AZ",
 				"name": "Arizona",
 				"density": 57.05,
 				"text": 200,
@@ -1346,6 +1349,7 @@
 			"type": "Feature",
 			"id": "05",
 			"properties": {
+				"short": "VT",
 				"name": "Arkansas",
 				"density": 56.43
 			},
@@ -1398,6 +1402,7 @@
 			"type": "Feature",
 			"id": "06",
 			"properties": {
+				"short": "VT",
 				"name": "California",
 				"density": 241.7
 			},
@@ -1506,6 +1511,7 @@
 			"type": "Feature",
 			"id": "08",
 			"properties": {
+				"short": "VT",
 				"name": "Colorado",
 				"density": 49.33
 			},
@@ -1537,6 +1543,7 @@
 			"type": "Feature",
 			"id": "09",
 			"properties": {
+				"short": "VT",
 				"name": "Connecticut",
 				"density": 739.1
 			},
@@ -1568,6 +1575,7 @@
 			"type": "Feature",
 			"id": "10",
 			"properties": {
+				"short": "VT",
 				"name": "Delaware",
 				"density": 464.3
 			},
@@ -1596,6 +1604,7 @@
 			"type": "Feature",
 			"id": "11",
 			"properties": {
+				"short": "VT",
 				"name": "District of Columbia",
 				"density": 10065
 			},
@@ -1616,6 +1625,7 @@
 			"type": "Feature",
 			"id": "12",
 			"properties": {
+				"short": "VT",
 				"name": "Florida",
 				"density": 353.4
 			},
@@ -1709,11 +1719,9 @@
 			"type": "Feature",
 			"id": "13",
 			"properties": {
+				"short": "VT",
 				"name": "Georgia",
-				"density": 169.5,
-				"text": 200,
-				"bgColor": "#088",
-				"textColor": "#fff"
+				"density": 169.5
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1778,6 +1786,7 @@
 			"type": "Feature",
 			"id": "15",
 			"properties": {
+				"short": "VT",
 				"name": "Hawaii",
 				"density": 214.1
 			},
@@ -1860,6 +1869,7 @@
 			"type": "Feature",
 			"id": "16",
 			"properties": {
+				"short": "VT",
 				"name": "Idaho",
 				"density": 19.15
 			},
@@ -1941,6 +1951,7 @@
 			"type": "Feature",
 			"id": "17",
 			"properties": {
+				"short": "VT",
 				"name": "Illinois",
 				"density": 231.5
 			},
@@ -2023,6 +2034,7 @@
 			"type": "Feature",
 			"id": "18",
 			"properties": {
+				"short": "VT",
 				"name": "Indiana",
 				"density": 181.7
 			},
@@ -2084,6 +2096,7 @@
 			"type": "Feature",
 			"id": "19",
 			"properties": {
+				"short": "VT",
 				"name": "Iowa",
 				"density": 54.81
 			},
@@ -2149,6 +2162,7 @@
 			"type": "Feature",
 			"id": "20",
 			"properties": {
+				"short": "VT",
 				"name": "Kansas",
 				"density": 35.09
 			},
@@ -2177,6 +2191,7 @@
 			"type": "Feature",
 			"id": "21",
 			"properties": {
+				"short": "VT",
 				"name": "Kentucky",
 				"density": 110
 			},
@@ -2267,6 +2282,7 @@
 			"type": "Feature",
 			"id": "22",
 			"properties": {
+				"short": "VT",
 				"name": "Louisiana",
 				"density": 105
 			},
@@ -2358,6 +2374,7 @@
 			"type": "Feature",
 			"id": "23",
 			"properties": {
+				"short": "VT",
 				"name": "Maine",
 				"density": 43.04
 			},
@@ -2439,6 +2456,7 @@
 			"type": "Feature",
 			"id": "24",
 			"properties": {
+				"short": "VT",
 				"name": "Maryland",
 				"density": 596.3
 			},
@@ -2524,6 +2542,7 @@
 			"type": "Feature",
 			"id": "25",
 			"properties": {
+				"short": "VT",
 				"name": "Massachusetts",
 				"density": 840.2
 			},
@@ -2574,6 +2593,7 @@
 			"type": "Feature",
 			"id": "26",
 			"properties": {
+				"short": "VT",
 				"name": "Michigan",
 				"density": 173.9
 			},
@@ -2755,6 +2775,7 @@
 			"type": "Feature",
 			"id": "27",
 			"properties": {
+				"short": "VT",
 				"name": "Minnesota",
 				"density": 67.14
 			},
@@ -2853,6 +2874,7 @@
 			"type": "Feature",
 			"id": "28",
 			"properties": {
+				"short": "VT",
 				"name": "Mississippi",
 				"density": 63.5
 			},
@@ -2914,6 +2936,7 @@
 			"type": "Feature",
 			"id": "29",
 			"properties": {
+				"short": "VT",
 				"name": "Missouri",
 				"density": 87.26
 			},
@@ -2982,6 +3005,7 @@
 			"type": "Feature",
 			"id": "30",
 			"properties": {
+				"short": "VT",
 				"name": "Montana",
 				"density": 6.858
 			},
@@ -3049,6 +3073,7 @@
 			"type": "Feature",
 			"id": "31",
 			"properties": {
+				"short": "VT",
 				"name": "Nebraska",
 				"density": 23.97
 			},
@@ -3093,6 +3118,7 @@
 			"type": "Feature",
 			"id": "32",
 			"properties": {
+				"short": "VT",
 				"name": "Nevada",
 				"density": 24.8
 			},
@@ -3129,6 +3155,7 @@
 			"type": "Feature",
 			"id": "33",
 			"properties": {
+				"short": "VT",
 				"name": "New Hampshire",
 				"density": 147
 			},
@@ -3172,6 +3199,7 @@
 			"type": "Feature",
 			"id": "34",
 			"properties": {
+				"short": "VT",
 				"name": "New Jersey",
 				"density": 1189
 			},
@@ -3219,6 +3247,7 @@
 			"type": "Feature",
 			"id": "35",
 			"properties": {
+				"short": "VT",
 				"name": "New Mexico",
 				"density": 17.16
 			},
@@ -3251,6 +3280,7 @@
 			"type": "Feature",
 			"id": "36",
 			"properties": {
+				"short": "VT",
 				"name": "New York",
 				"density": 412.3
 			},
@@ -3334,6 +3364,7 @@
 			"type": "Feature",
 			"id": "37",
 			"properties": {
+				"short": "VT",
 				"name": "North Carolina",
 				"density": 198.2
 			},
@@ -3410,6 +3441,7 @@
 			"type": "Feature",
 			"id": "38",
 			"properties": {
+				"short": "VT",
 				"name": "North Dakota",
 				"density": 9.916
 			},
@@ -3441,6 +3473,7 @@
 			"type": "Feature",
 			"id": "39",
 			"properties": {
+				"short": "Ohio",
 				"name": "Ohio",
 				"density": 281.9,
 				"text": 200,
@@ -3506,6 +3539,7 @@
 			"type": "Feature",
 			"id": "40",
 			"properties": {
+				"short": "VT",
 				"name": "Oklahoma",
 				"density": 55.22
 			},
@@ -3566,6 +3600,7 @@
 			"type": "Feature",
 			"id": "41",
 			"properties": {
+				"short": "VT",
 				"name": "Oregon",
 				"density": 40.33
 			},
@@ -3637,6 +3672,7 @@
 			"type": "Feature",
 			"id": "42",
 			"properties": {
+				"short": "VT",
 				"name": "Pennsylvania",
 				"density": 284.3
 			},
@@ -3685,6 +3721,7 @@
 			"type": "Feature",
 			"id": "44",
 			"properties": {
+				"short": "VT",
 				"name": "Rhode Island",
 				"density": 1006
 			},
@@ -3721,6 +3758,7 @@
 			"type": "Feature",
 			"id": "45",
 			"properties": {
+				"short": "VT",
 				"name": "South Carolina",
 				"density": 155.4
 			},
@@ -3780,6 +3818,7 @@
 			"type": "Feature",
 			"id": "46",
 			"properties": {
+				"short": "VT",
 				"name": "South Dakota",
 				"density": 98.07
 			},
@@ -3824,6 +3863,7 @@
 			"type": "Feature",
 			"id": "47",
 			"properties": {
+				"short": "VT",
 				"name": "Tennessee",
 				"density": 88.08
 			},
@@ -3882,6 +3922,7 @@
 			"type": "Feature",
 			"id": "48",
 			"properties": {
+				"short": "VT",
 				"name": "Texas",
 				"density": 98.07
 			},
@@ -4049,6 +4090,7 @@
 			"type": "Feature",
 			"id": "49",
 			"properties": {
+				"short": "VT",
 				"name": "Utah",
 				"density": 34.3
 			},
@@ -4076,6 +4118,7 @@
 			"type": "Feature",
 			"id": "50",
 			"properties": {
+				"short": "VT",
 				"name": "Vermont",
 				"density": 67.73,
 				"text": 200,
@@ -4122,6 +4165,7 @@
 			"type": "Feature",
 			"id": "51",
 			"properties": {
+				"short": "VT",
 				"name": "Virginia",
 				"density": 204.5
 			},
@@ -4227,6 +4271,7 @@
 			"type": "Feature",
 			"id": "53",
 			"properties": {
+				"short": "VT",
 				"name": "Washington",
 				"density": 102.6
 			},
@@ -4324,6 +4369,7 @@
 			"type": "Feature",
 			"id": "54",
 			"properties": {
+				"short": "VT",
 				"name": "West Virginia",
 				"density": 77.06
 			},
@@ -4404,6 +4450,7 @@
 			"type": "Feature",
 			"id": "55",
 			"properties": {
+				"short": "VT",
 				"name": "Wisconsin",
 				"density": 105.2
 			},
@@ -4494,6 +4541,7 @@
 			"type": "Feature",
 			"id": "56",
 			"properties": {
+				"short": "VT",
 				"name": "Wyoming",
 				"density": 5.851
 			},
@@ -4522,6 +4570,7 @@
 			"type": "Feature",
 			"id": "72",
 			"properties": {
+				"short": "VT",
 				"name": "Puerto Rico",
 				"density": 1082
 			},

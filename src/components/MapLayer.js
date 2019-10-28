@@ -1,8 +1,8 @@
 import React from 'react'
 import { Layer } from '@urbica/react-map-gl'
 
-export default function MapLayer({ data }) {
-	const { name, bgColor, textColor, text } = data.properties
+export default function MapLayer({ data, zoom }) {
+	const { name, short, bgColor, textColor, text } = data.properties
 	return (
 		// 'source' have to be the same of all Layer
 		<>
@@ -23,9 +23,9 @@ export default function MapLayer({ data }) {
 					type='symbol'
 					source={data.id}
 					layout={{
-						'text-field': `${text.toString()}\n${name.toString()}`,
+						'text-field': `${text.toString()}\n${zoom > 5 ? name.toString() : short.toString()}`,
 						'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
-						'text-size': 14
+						'text-size': zoom > 4 ? 14 : 11
 					}}
 					paint={{ 'text-color': textColor ? textColor : '#000' }}
 				/>

@@ -46,7 +46,7 @@ class App extends React.Component {
 					return (
 						<React.Fragment key={'state-' + i}>
 							<MapSource data={singleStateData} />
-							<MapLayer data={singleStateData} />
+							<MapLayer data={singleStateData} zoom={viewport.zoom} />
 						</React.Fragment>
 					)
 				})}
